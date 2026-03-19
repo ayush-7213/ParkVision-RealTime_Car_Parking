@@ -69,7 +69,7 @@ python main.py
 
 ## Output
 
-<img width="1023" height="640" alt="Screenshot 2026-03-19 111451" src="https://github.com/user-attachments/assets/4258fb38-268e-45c3-b71f-c501f385a0c1" />
+<img width="1354" height="878" alt="Screenshot 2026-03-19 113615" src="https://github.com/user-attachments/assets/cfc08682-8ba4-4b5f-bf51-b8a62d40783f" />
 
 ---
 
